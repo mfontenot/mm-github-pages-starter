@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Test Automation Portfolio - Day 2"
-excerpt: "I did some more searching to find a screenshot API that would give me good results to post for my *test automation portfolio*.  I'm hoping that I found that in <a href="https://apiflash.com" target="_blank" rel="noopener noreferrer">API Flash</a> 🧐.  From the looks of their site, it's easy to use and "simple and powerful".  I did what I knew how to do...signed up (another password)."
+excerpt: "I did some more searching to find a screenshot API that would give me good results to post for my test automation portfolio.  I'm hoping that I found that in API Flash.  From the looks of their site, it's easy to use and 'simple and powerful'.  I did what I knew how to do...signed up (another password)."
 date:   2021-03-15 12:15:00 -0600
 categories: testing portfolio
 ---
