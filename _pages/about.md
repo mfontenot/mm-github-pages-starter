@@ -1,8 +1,21 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 ---
+<style type="text/css">
+  .rss-subscribe {
+	  display: none;
+  }
+</style>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm 40-something and have a lovely wife and two young boys.  I live in South Louisiana in a small town and love chilling out with my family.  I also love internet of things and anything gadgety-electronic.
+
+### Career
+
+I have only recently gotten into the ***tester***/developer/coder/programmer part of my career.  I have been on the technical side of computers for 21+ years, then 4 months before my current role I started dedicating small parts of my day to learning code or anything related to coding, like documentation, blogs, twitter, etc.  I've always dabbled in code - scripting with VBScript, [AutoIt](https://autoitscript.com){:target="_blank"}, Python, JavaScript, etc. - but really started training myself and also looking at how companies interview developers, before landing my current job as a Test Engineer.  The "how companies interviewed developers" led me on a wild goose chase with lots of angry blog/twitter posts.  I didn’t find the interviews too bad, but it could be the company I interviewed with and am working for, idk.  So, almost a year now (November 2020) and I’m really enjoying this test stuff 🤓.
+
+### End...
+
+That’s all.  I look forward to blogging about software testing and all that goes along with it.
