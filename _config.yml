@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mike Fontenot"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Software Tester - that is all, thanks"
+  bio    : ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
