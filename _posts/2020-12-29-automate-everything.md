@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Automate Everything"
+excerpt: "When I was in a desktop support role, which was most of the past 21 years of my career, I found that automation was the “go to” if you wanted to keep away from touching something hundreds of times a day to get what you wanted. This could be automating the transfer of files from a computer to a FTP server or installation of software that asked too many questions. Whatever it was, it didn’t matter...automate it!"
 date:   2020-12-29 06:06:00 -0600
 categories: testing
 ---

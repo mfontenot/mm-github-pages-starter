@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Test Career Development Thoughts"
+excerpt: "In the past 2 or so months I have decided to enhance my Tester career instead of trying to become a Jr. Java Developer.  My mindset has changed now and I would rather be a better Tester."
 date:   2020-12-01 06:43:00 -0600
 categories: tester career
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Test Automation Portfolio - Day 3"
+excerpt: "This is kind of a Day 3a, since I already had a Day 3 where I revisited the Browshot API and got it working.  It gave me a nice JSON response that was more informative that API Flash's response.  I may revisit API Flash again but, for now, here are my thought's about automating Browshot."
 date:   2021-03-18 16:30:00 -0600
 categories: testing portfolio
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Test Automation Portfolio - Day 1a"
+excerpt: "Hey, mistakes were made on Day 1 and I own up to them.  Thanks to Julien Sobrier with Browshot to point me in the right direction.  I bring you...a working example of the Browshot API."
 date:   2021-03-18 13:30:00 -0600
 categories: testing portfolio
 ---

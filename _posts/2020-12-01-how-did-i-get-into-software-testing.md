@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "How did I get into Software Testing?"
+excerpt: "My journey into a software tester role seemed to be a short one, but if I think back it was the longest path I have ever taken to get here."
 date:   2020-12-01 13:32:00 -0600
 categories: career
 ---

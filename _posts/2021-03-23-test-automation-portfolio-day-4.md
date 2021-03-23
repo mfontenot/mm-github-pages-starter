@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Test Automation Portfolio - Day 4"
+excerpt: "I've thought a lot about whether or not having a "Test" within Postman should hold a place in my **Automation Portfolio**.  The answer is, "maybe, yeah".  If all I have to do is press a button and check a result - Pass or Fail - then I would consider that an automation of a test."
 date:   2021-03-23 07:30:00 -0600
 categories: testing portfolio
 ---

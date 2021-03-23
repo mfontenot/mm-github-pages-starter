@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Test Automation Portfolio - Day 1"
+excerpt: "First things first, props to Angie Jones' post on <a href="https://techbeacon.com/app-dev-testing/10-portfolio-projects-aspiring-automation-engineers" target="_blank" rel="noopener noreferrer">TechBeacon</a> for calling me out.  I jumped into being a QA/Test Engineer 1+ years ago and don't have too much to show for it (except my actual job performance 😉).  This will be a way for others to follow along and to showcase things I am good at (still learning)."
 date:   2021-03-12 12:45:00 -0600
 categories: testing portfolio
 ---
