@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How did I get into Software Testing?"
 date:   2020-12-01 13:32:00 -0600
 categories: career

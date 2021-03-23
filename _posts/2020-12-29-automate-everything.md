@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Automate Everything"
 date:   2020-12-29 06:06:00 -0600
 categories: testing

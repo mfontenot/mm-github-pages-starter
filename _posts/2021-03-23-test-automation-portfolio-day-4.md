@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Test Automation Portfolio - Day 4"
 date:   2021-03-23 07:30:00 -0600
 categories: testing portfolio

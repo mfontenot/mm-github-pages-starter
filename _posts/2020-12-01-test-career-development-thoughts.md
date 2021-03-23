@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Test Career Development Thoughts"
 date:   2020-12-01 06:43:00 -0600
 categories: tester career
