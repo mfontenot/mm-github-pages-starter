@@ -31,7 +31,7 @@ The **Any-Api.com** site will give you a good idea of how to form the request fo
 
 I set the request to **GET** and pasted in the example.  I put in my key at the end and the website to capture was *https://www.ministryoftesting.com*.  So far so good...now, let's hit **Send** in Postman.  Well, that didn't work.  It took a few seconds and came back with an error.  The example I copied from the top of the API documentation page has */simple/* within it and I wanted the full-blown screenshot API abilities.  Mistakes were made 😜.  I fixed up the request (removed /simple) and resubmitted...Blam-O!  I receive a JSON response with some details:
 
-``` JSON
+```JSON
 {
     "steps": "",
     "priority": "1",
@@ -64,12 +64,14 @@ I set the request to **GET** and pasted in the example.  I put in my key at the 
     "shared_url": ""
 }
 ```
+
 What does it mean?!?  Nothing to be concerned about at this point.  The request was successful!  Now, onto checking out where my browshot is at.
 
 There is a */screenshot/info* endpoint that may give us some status information for this screenshot.  Here goes nothing.  There's an example here as well and looks formed to what I need, so I create a second **GET** request in Postman using my **id** (redacted so you don't steal my stuff..LOL) from the JSON above and my **key** (API key).  That worked!  I got the reply back, but hmmm....still "in_process" after a couple hours.  I can't complain about a free service, but I know I had well-formed Postman requests both times.  I will dig around their API and see what went wrong, if anything, or if there is another endpoint I can hit to find more information.
 
 The response JSON from */screenshot/info*:
-``` JSON
+
+```JSON
 {
     "priority": "1",
     "shot_interval": "5",
