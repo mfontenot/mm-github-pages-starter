@@ -21,7 +21,7 @@ Postman can be used for a number of different things - if we view some of their 
 #### Back to Browshot and Postman
 Let's go through my original Test Plan from Day 3 and see how I did.
 
-`- Utilize Postman to send a **GET** request to the API */create* endpoint`
+<p class="notice success">- Utilize Postman to send a **GET** request to the API */create* endpoint</p>
 That one was easily setup in Postman and now ready for the next one.  *Done*
 
 `- Ensure appropriate query parameters are set`
