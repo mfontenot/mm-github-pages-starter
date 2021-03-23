@@ -31,7 +31,7 @@ The **Any-Api.com** site will give you a good idea of how to form the request fo
 
 I set the request to **GET** and pasted in the example.  I put in my key at the end and the website to capture was *https://www.ministryoftesting.com*.  So far so good...now, let's hit **Send** in Postman.  Well, that didn't work.  It took a few seconds and came back with an error.  The example I copied from the top of the API documentation page has */simple/* within it and I wanted the full-blown screenshot API abilities.  Mistakes were made 😜.  I fixed up the request (removed /simple) and resubmitted...Blam-O!  I receive a JSON response with some details:
 
-```JSON
+~~~ json
 {
     "steps": "",
     "priority": "1",
@@ -63,7 +63,7 @@ I set the request to **GET** and pasted in the example.  I put in my key at the 
     "scale": 1,
     "shared_url": ""
 }
-```
+~~~
 
 What does it mean?!?  Nothing to be concerned about at this point.  The request was successful!  Now, onto checking out where my browshot is at.
 
@@ -71,7 +71,7 @@ There is a */screenshot/info* endpoint that may give us some status information 
 
 The response JSON from */screenshot/info*:
 
-```JSON
+~~~ json
 {
     "priority": "1",
     "shot_interval": "5",
@@ -108,7 +108,7 @@ The response JSON from */screenshot/info*:
     "final_url": "https://www.ministryoftesting.com/",
     "shared_url": ""
 }
-```
+~~~
 
 Hey, let's try to get a thumbnail image (PNG) of the screenshot I requested.  I created another **GET** request to the */screenshot/thumbnail* using their example.  This one wants my screenshot **id**, **key**, and **zoom** percentage in the query parameters.  Hit send request and....uh oh!....I have no image.  Again, props to this free API.  It got close but not close enough.
 
