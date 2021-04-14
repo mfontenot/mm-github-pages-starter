@@ -14,12 +14,12 @@ categories: testing portfolio
 ## Thinking about automating Browshot testing
 
 ### Day 3 of building up my *Test Automation Portfolio*
-This is kind of a Day 3a, since I already had a Day 3 where I revisited the Browshot API and got it working.  It gave me a nice JSON response that was more informative that API Flash's response.  I may revisit API Flash again but, for now, here are my thought's about automating Browshot.
+This is Day 3a, since I have a Day 3 where I revisited the Browshot API and got it working.  It gave me a nice JSON response that was more informative that API Flash's response.  I may revisit API Flash again but, for now, here are my thought's about automating Browshot.
 
 #### The brain dump of ideas
-Browshot gave me a fairly comprehensive JSON response that I feel I can automate a test within Postman.
+Browshot gave me a comprehensive JSON response that I feel I can automate a test within Postman.
 
-The main thing that caught my eye to test for is the existence of the **screenshot_url** key/value pair.  From Day 1, the JSON given back to me during my failure did not have this key/value pair.  This is a perfect place to start and I have some experience with creating a test in Postman to check for this within a JSON response.
+The main thing that caught my eye to test for is the existence of the **screenshot_url** key/value pair.  From Day 1, the JSON given back to me during my failure did not have this key/value pair.  This is a perfect place to start and I have experience with creating a test in Postman to check for this within a JSON response.
 
 That's settled then!  I have what I am going to do, the API in test, and what the results should be.  I'll have a successful test and a failure test (I'm good at that one 😉).
 
